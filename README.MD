@@ -1,7 +1,7 @@
 
 # Exercício
 
-Baixe esse projeto, adicione a classe necessária e faça o projeto funciona.
+Baixe esse projeto, adicione a classe necessária e faça o projeto funcionar.
 
 # Descrição
 
